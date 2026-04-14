@@ -56,6 +56,3 @@ python render_pymol_overlay.py \
 ## 注意事項
 - PyMOL の DLL パスが正しく設定されている必要があります。Windows 環境では、`PYMOL_DLL_DIR` 環境変数を設定してください。
 - 入力ファイルの形式は PDB または CIF に対応しています。
-
-## ライセンス
-このスクリプトは、プロジェクトのライセンスに従います。詳細は `LICENSE` ファイルを参照してください。
